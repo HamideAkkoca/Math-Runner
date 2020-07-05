@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/runner4.unity
+    guid: e890b30257fb27f4faeb3850c3be30f3
+  - enabled: 1
+    path: Assets/Scenes/Math_Runner.unity
+    guid: 6260c24f5cf975341808f277ef24db12
+  - enabled: 1
+    path: Assets/Scenes/Restartmenu.unity
+    guid: f1b8717e470f7374cb100435a01be722
+  m_configObjects: {}
